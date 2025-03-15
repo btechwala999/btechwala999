@@ -1,15 +1,16 @@
-# Hi 👋, I'm Utkarsh Singh
+###                                                           Hi 👋, I'm Utkarsh Singh
 
-### A Passionate Developer from India 🇮🇳
+### Web Developer
 
-🚀 Enthusiastic about problem-solving, web development, and backend engineering. Passionate about Cyber Security and building scalable applications.
+🚀 Enthusiastic about problem-solving, web development.
+🧑‍💻 Passionate about backend Development and building scalable applications.
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -38,7 +39,7 @@
 
 ## 📌 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=btechwala999&theme=dark&hide_border=false)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=btechwala999&show_icons=true&theme=dark)
 
@@ -48,8 +49,9 @@
 
 ## 📢 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-singh-xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-singh00)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btechwala999)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Utkarsh09191646)
+✉️ Email: utkarshsinghus238@gmail.com
 
 🔗 **Feel free to reach out for collaborations, open-source contributions, or just a tech chat!** 🚀
